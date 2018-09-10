@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sticker_Priject", "Sticker_Priject.csproj", "{CE875AB1-5DD7-F368-50C9-BDE95435D6FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE875AB1-5DD7-F368-50C9-BDE95435D6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE875AB1-5DD7-F368-50C9-BDE95435D6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE875AB1-5DD7-F368-50C9-BDE95435D6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE875AB1-5DD7-F368-50C9-BDE95435D6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
